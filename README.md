@@ -4,6 +4,9 @@
   SQL based back end for an e-commerce site
   
   ## Walkthrough 
+  
+  Higher Quality Video included in code files
+  
   ![SQL-Backend-Walktrough](https://user-images.githubusercontent.com/63832314/170845512-7654b614-9d69-4f90-a458-d363b20013d5.gif)
 
 
